@@ -17,6 +17,7 @@
   <img align="center" alt="HTML5 Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3 Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="NodeJS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Git Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Figma Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Photoshop Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
@@ -25,8 +26,7 @@
 
 ### Conecte-se comigo:
 <div>
-  <a href="https://www.instagram.com/pablinxxc/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram do Pablo" height="30" width="40"></a>
-  <a href="https://www.instagram.com/pablinxxc/" target="_blank"><img src="" alt="Instagram do Pablo" height="30" width="40"></a>
- 	<a href="https://www.instagram.com/pablinxxc/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Instagram do Pablo" height="29" width="33"></a> 
-  <a href="https://www.instagram.com/pablinxxc/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram do Pablo" height="30" width="40"></a>
-  <a href="https://www.instagram.com/pablinxxc/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram do Pablo" height="30" width="40"></a>
+  <a href="https://www.instagram.com/pablinxxc/" target="_blank"><img src="images/Instagram.svg" alt="Instagram Icon" height="30" width="40"></a>
+ 	<a href="https://www.linkedin.com/in/pablo-galvão-cabugueira-a29872230/" target="_blank"><img src="images/LinkedIN.svg" alt="LinkedIn Icon" height="30" width="40"></a>
+  <a href="mailto:pablo.cabugueira1234@gmail.com" target="_blank"><img src="images/Gmail.svg" alt="Gmail Icon" height="30" width="40"></a>
+</div>
