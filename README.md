@@ -31,7 +31,6 @@
 
 ### Conecte-se comigo:
 <div>
-  <a href="https://www.instagram.com/pablinxxc/" target="_blank"><img src="images/Instagram.svg" alt="Instagram Icon" height="30" width="40"></a>
  	<a href="https://www.linkedin.com/in/pablo-galvao-cabugueira/" target="_blank"><img src="images/LinkedIN.svg" alt="LinkedIn Icon" height="30" width="40"></a>
   <a href="mailto:pablo.cabugueira1234@gmail.com" target="_blank"><img src="images/Gmail.svg" alt="Gmail Icon" height="30" width="40"></a>
 </div>
